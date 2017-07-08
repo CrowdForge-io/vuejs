@@ -111,3 +111,6 @@ The gem is available as open source under the terms of the [MIT License](http://
 📮 Bryan Lim ytbryan@gmail.com
 
 > If you are using vue.js via this rubygem, do let me know so that I can list your project/company on this repo. Thank you! 
+
+ # Join the team 
+ Do you want to collaborate? Join the project at https://crowdforge.io/projects/49
